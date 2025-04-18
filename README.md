@@ -1,6 +1,6 @@
 # AIR-Embodied
 
-Code is coming soon !
+The replication code for experiments has been open sourced, and our system will be fully open source once the article is accepted.
 
 
 
